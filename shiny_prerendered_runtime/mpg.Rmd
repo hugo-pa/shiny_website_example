@@ -42,7 +42,9 @@ sidebarLayout(
 
   )
 )
+```
 
+```{r, context="server"}
 # Compute the formula text ----
 # This is in a reactive expression since it is shared by the
 # output$caption and output$mpgPlot functions
