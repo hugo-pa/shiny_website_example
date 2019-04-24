@@ -1,0 +1,9 @@
+name: "shiny-example"
+navbar:
+  left:
+    - text: "Home"
+      href: index.Rmd
+    - text: "Inputs and Outputs"
+      href: inputs_and_outputs.Rmd
+    - text: "Miles Per Gallon"
+      href: mpg.Rmd
